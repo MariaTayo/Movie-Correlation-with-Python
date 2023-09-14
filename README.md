@@ -1,10 +1,10 @@
 # Movie-Correlation-with-Python
 
-# Aim
+## Aim
 
 The aim of this project was to find movie correlations between variables using Python. 
 
-# About Dataset
+## About Dataset
 
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
