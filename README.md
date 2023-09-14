@@ -2,7 +2,7 @@
 
 ## Aim
 
-The aim of this project was to find movie correlations between variables using Python. 
+The aim of this project is to find movie correlations between variables using Python. 
 
 ## About Dataset
 
