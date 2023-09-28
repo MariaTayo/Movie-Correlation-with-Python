@@ -48,8 +48,18 @@ year: year of release
 
 ## Finding Correlations in the Data 
 
-* I looked into the budget and the gross to find whether there was any correlation between the two. To quickly compare this, I visualised a scatterplot with budget vs gross.
+* I looked into the budget and the gross to find whether there was any correlation between the two. To quickly compare this, I visualised a scatterplot with budget vs gross. This showed a positive correlation.
 ![download](https://github.com/MariaTayo/Movie-Correlation-with-Python/assets/117232459/e5b2743c-6a69-46a1-8795-c22760f25c43)
+![download](https://github.com/MariaTayo/Movie-Correlation-with-Python/assets/117232459/5f8e52cc-10ab-406a-8938-64f21846c21e)
+
+I then looked further into the correlation to find out how much the correlation is between the two. This was specifically for the numerical fields. 	
+year	score	votes	budget	gross	runtime
+year	1.000000	0.097995	0.222945	0.309212	0.256331	0.120811
+score	0.097995	1.000000	0.409182	0.055665	0.169406	0.399451
+votes	0.222945	0.409182	1.000000	0.486862	0.573889	0.309212
+budget	0.309212	0.055665	0.486862	1.000000	0.687124	0.269510
+gross	0.256331	0.169406	0.573889	0.687124	1.000000	0.204177
+runtime	0.120811	0.399451	0.309212	0.269510	0.204177	1.000000
 
 Source: This dataset was downloaded from https://www.kaggle.com/datasets/danielgrijalvas/movies 
 (scraped from IMDb)
