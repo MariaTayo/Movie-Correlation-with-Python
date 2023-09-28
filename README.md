@@ -2,7 +2,7 @@
 
 ## Aim and Background
 
-The aim of this project is to find movie correlations between variables using Python. I will be looking at correlations in the data to find the fields highly correlated with the gross revenue. The aim is to find the things that impact the revenue of a film. As part of the analysis I looked at the genre, gross revenue of the movies and release date. 
+The aim of this project was to find movie correlations between variables using Python. I looked at correlations in the data to find the fields highly correlated with the gross revenue. The aim was to find the things that impact the revenue of a film. As part of the analysis I looked at the genre, gross revenue of the movies and release date. This was part of a project by Alex the Analyst.
 
 ## About Dataset
 
